@@ -1,6 +1,8 @@
 Run:
 Python Main.py
 
+download requirment.txt Libraries
+
 Steps:
 1 : Sign up
 2. You get password on register email ID
